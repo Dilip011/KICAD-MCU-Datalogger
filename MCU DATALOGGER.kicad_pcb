@@ -3355,6 +3355,17 @@
 			(uuid "de85587a-5e71-49ff-98a5-d2da310144eb")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -5771,6 +5782,17 @@
 			(uuid "d6c5fd50-526f-4325-a6e1-6f6cd88b881a")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/LIBRARIES/DS1337S_/DS1337S_.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
