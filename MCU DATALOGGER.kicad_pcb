@@ -86,7 +86,7 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -117,9 +117,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "GERBER/")
 		)
 	)
 	(property "project_name" "MCU Datalogger with memory and clock")
@@ -7471,7 +7471,7 @@
 	(footprint "Symbol:KiCad-Logo2_5mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "03597af2-fd89-46c6-b1da-4704427c22d0")
-		(at 102.87 60.96 180)
+		(at 90.17 55.88 180)
 		(descr "KiCad Logo")
 		(tags "Logo KiCad")
 		(property "Reference" "REF**"
@@ -8152,8 +8152,8 @@
 		(embedded_fonts no)
 	)
 	(gr_line
-		(start 115.824 73.406)
-		(end 120.0023 73.406)
+		(start 115.4 70.0035)
+		(end 119.5783 70.0035)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -8162,8 +8162,8 @@
 		(uuid "2c5b1f84-6b08-47a6-80a0-14e054780cb6")
 	)
 	(gr_line
-		(start 120.015 73.406)
-		(end 120.015 68.199)
+		(start 119.591 70.0035)
+		(end 119.591 64.7965)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -8172,8 +8172,8 @@
 		(uuid "36ebb6df-7f0d-4da6-955a-b212c6d6e249")
 	)
 	(gr_line
-		(start 120.015 68.199)
-		(end 115.824 68.199)
+		(start 119.591 64.7965)
+		(end 115.4 64.7965)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -8182,8 +8182,8 @@
 		(uuid "6f3cd293-ae4d-43dd-9eeb-9aede5638ae0")
 	)
 	(gr_line
-		(start 115.824 68.199)
-		(end 115.824 73.406)
+		(start 115.4 64.7965)
+		(end 115.4 70.0035)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -8496,7 +8496,7 @@
 		)
 	)
 	(gr_text "ICSP\nMISO | Vcc\n SCK  | MOSI\nRESET| GND"
-		(at 117.8 73.14 0)
+		(at 117.376 69.7375 0)
 		(layer "F.SilkS")
 		(uuid "83fa86fe-56b0-46c1-9ef6-fbe5eae9c23a")
 		(effects
