@@ -3587,7 +3587,7 @@
 			)
 		)
 		(property "Value" "Conn_02x03_Odd_Even"
-			(at 7.015 6.115 0)
+			(at 7.415 6.115 0)
 			(layer "F.Fab")
 			(uuid "7aae12f6-621e-4ff0-8363-89cc9177f0f5")
 			(effects
