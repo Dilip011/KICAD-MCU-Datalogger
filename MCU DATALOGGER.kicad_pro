@@ -560,6 +560,10 @@
       {
         "netclass": "Power",
         "pattern": "/Vcc"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/Abc123"
       }
     ]
   },
@@ -568,7 +572,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "GERBER/",
+      "plot": "4-LAYER GERBER/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
