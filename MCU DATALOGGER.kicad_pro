@@ -560,6 +560,10 @@
       {
         "netclass": "Power",
         "pattern": "/Vcc"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/Abc123"
       }
     ]
   },
