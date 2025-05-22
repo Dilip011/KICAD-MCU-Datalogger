@@ -3830,6 +3830,16 @@
 		)
 		(uuid "29c7bbdc-ff85-4ae5-a634-5d6284638295")
 	)
+	(label "Abc123"
+		(at 175.26 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ab218df-47d8-4bef-8667-32ddd36954c6")
+	)
 	(label "D6"
 		(at 246.38 128.27 0)
 		(effects
